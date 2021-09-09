@@ -8,4 +8,5 @@ It has nice features like login with Discord account, api fetching for looking i
 Thanks RocketSeat for this opportunity.
 
 <img src="https://github.com/caickdias/rocketseat/blob/main/app-images/login.jpeg" width="40%" height="40%"/> <img src="https://github.com/caickdias/rocketseat/blob/main/app-images/home.jpeg" width="40%" height="40%"/>
-<img src="https://github.com/caickdias/rocketseat/blob/main/app-images/appointment-create.jpeg" width="40%" height="40%"/> <img src="https://github.com/caickdias/rocketseat/blob/main/app-images/appointment-details.jpeg" width="40%" height="40%"/>
+<img src="https://github.com/caickdias/rocketseat/blob/main/app-images/appointment-create.jpeg" width="40%" height="40%"/> <img src="https://github.com/caickdias/rocketseat/blob/main/app-images/discord-guilds.jpeg" width="40%" height="40%"/>
+<img src="https://github.com/caickdias/rocketseat/blob/main/app-images/appointment-details.jpeg" width="40%" height="40%"/>
