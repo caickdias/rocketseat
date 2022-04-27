@@ -3,7 +3,7 @@
 This project was a code-along app that I created following Rocketseat videos at their 'next-level-week'.
 
 It helped me a lot having a better understanding of tons of RN concepts and mobile-app design.
-It has nice features like login with Discord account, api calls for looking into your discords servers and sending invites. Also, we used hooks, API context, fonts importing, navigation, routing and a lot componentizing, folder structure concepts and more. Still has some minor bugs.
+It has nice features like login via Discord, api calls for looking into your discords servers and sending invites. Also, we used hooks, API context, fonts importing, navigation, routing and a lot componentizing, folder structure concepts and more. Still has some minor bugs.
 
 Thanks RocketSeat for this opportunity.
 
